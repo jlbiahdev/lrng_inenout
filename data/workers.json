@@ -1,0 +1,82 @@
+[
+    {
+        "firstname": "Alice",
+        "lastname": "Martin",
+        "email": "alice.martin@example.com",
+        "code": "W001",
+        "photo": "alice_martin.jpg",
+        "present": true
+    },
+    {
+        "firstname": "Bob",
+        "lastname": "Dupont",
+        "email": "bob.dupont@example.com",
+        "code": "W002",
+        "photo": "bob_dupont.jpg",
+        "present": false
+    },
+    {
+        "firstname": "Claire",
+        "lastname": "Durand",
+        "email": "claire.durand@example.com",
+        "code": "W003",
+        "photo": "claire_durand.jpg",
+        "present": false
+    },
+    {
+        "firstname": "David",
+        "lastname": "Lefevre",
+        "email": "david.lefevre@example.com",
+        "code": "W004",
+        "photo": "david_lefevre.jpg",
+        "present": true
+    },
+    {
+        "firstname": "Emma",
+        "lastname": "Moreau",
+        "email": "emma.moreau@example.com",
+        "code": "W005",
+        "photo": "emma_moreau.jpg",
+        "present": false
+    },
+    {
+        "firstname": "François",
+        "lastname": "Roux",
+        "email": "francois.roux@example.com",
+        "code": "W006",
+        "photo": "francois_roux.jpg",
+        "present": true
+    },
+    {
+        "firstname": "Gabrielle",
+        "lastname": "Girard",
+        "email": "gabrielle.girard@example.com",
+        "code": "W007",
+        "photo": "gabrielle_girard.jpg",
+        "present": true
+    },
+    {
+        "firstname": "Hugo",
+        "lastname": "Lambert",
+        "email": "hugo.lambert@example.com",
+        "code": "W008",
+        "photo": "hugo_lambert.jpg",
+        "present": false
+    },
+    {
+        "firstname": "Isabelle",
+        "lastname": "Fontaine",
+        "email": "isabelle.fontaine@example.com",
+        "code": "W009",
+        "photo": "isabelle_fontaine.jpg",
+        "present": false
+    },
+    {
+        "firstname": "Julien",
+        "lastname": "Perrin",
+        "email": "julien.perrin@example.com",
+        "code": "W010",
+        "photo": "julien_perrin.jpg",
+        "present": false
+    }
+]
